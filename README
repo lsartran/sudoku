@@ -1,0 +1,7 @@
+
+Sudoku solver in Haskell
+========================
+
+I'm playing around with the language, please do not consider this code as good, idiomatic, correct or anything.
+
+Example sudoku (sudoku.txt) taken from http://dingo.sbs.arizona.edu/~sandiway/sudoku/examples.html (Arizona Daily Wildcat: Tuesday, Jan 17th 2006)
